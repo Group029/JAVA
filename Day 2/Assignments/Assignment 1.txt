@@ -1,0 +1,16 @@
+Time Limit: 15 Minutes
+
+Create a class CateringBill with following attributes:
+	int plateCount
+	int ratePerPlate
+
+Implement getters and setters.
+
+Implement 2 additional methods as per the following
+	int generateBill() --> Generates bill amount without discount
+	
+	int generateBill(int discountPercent) --> Generates bill amount with discount
+
+Write a main program to test the functionality.
+
+***Declare attributes as private
