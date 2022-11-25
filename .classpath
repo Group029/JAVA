@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Day 1/Code Examples"/>
+	<classpathentry kind="src" path="Day 10/Code-Examples"/>
+	<classpathentry kind="src" path="Day 2/Code_Examples"/>
+	<classpathentry kind="src" path="Day 3/Code-Examples"/>
+	<classpathentry kind="src" path="Day 4/Code-Examples"/>
+	<classpathentry kind="src" path="Day 5/Code-Examples"/>
+	<classpathentry kind="src" path="Day 6/Code-Examples"/>
+	<classpathentry kind="src" path="Day 7/Code-Examples"/>
+	<classpathentry kind="src" path="Day 8/Code-Examples"/>
+	<classpathentry kind="src" path="Day 9/Code-Examples"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
